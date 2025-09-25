@@ -1,0 +1,17 @@
+com\quizapp\models\User$AScore.class
+com\quizapp\models\User$Score.class
+com\quizapp\models\Quiz.class
+com\quizapp\controllers\QuizController.class
+com\quizapp\services\MailService.class
+com\quizapp\repositories\AquizRepository.class
+com\quizapp\config\JwtFilter.class
+com\quizapp\models\Quiz$Question.class
+com\quizapp\repositories\QuizRepository.class
+com\quizapp\controllers\AquizController.class
+com\quizapp\config\SecurityConfig.class
+com\quizapp\QuizApplication.class
+com\quizapp\repositories\UserRepository.class
+com\quizapp\services\JwtUtil.class
+com\quizapp\models\User.class
+com\quizapp\controllers\AuthController.class
+com\quizapp\models\Aquiz.class
